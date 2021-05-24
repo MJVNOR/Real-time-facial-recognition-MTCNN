@@ -4,4 +4,4 @@ The files recFacesCAM.ipynb and recFacesVideo.ipynb are the files that work, the
 
 [medium link (spanish)](https://mjvnor.medium.com/como-fallar-en-generar-corridos-tumbados-mediante-ia-28c74a0b23db)
 
-[medium link (english) (under construction)]()
+[medium link (english) (under construction)](https://github.com/MJVNOR/CorridosTumbadosGenerateAcustico)
